@@ -42,5 +42,6 @@ latihan
 -NIM
 -Asal Sekolah
 -Cita-cita
+Konfirmasi Keberhasilan!
 <img width="926" height="1051" alt="image" src="https://github.com/user-attachments/assets/0589c722-b90d-4c54-aa6c-b2e0ea7e79c7" />
 
