@@ -36,3 +36,10 @@ Mahasiswa mampu :
     - Konfirmasi Keberhasilan
     ![alt text](image-3.png)
     ![alt text](image-4.png)
+
+latihan
+-NAMA
+-NIM
+-Asal Sekolah
+-Cita-cita
+![alt text](image-5.png)
