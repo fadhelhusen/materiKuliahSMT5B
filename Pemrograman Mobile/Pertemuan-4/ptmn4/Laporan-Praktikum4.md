@@ -32,7 +32,7 @@ Mahasiswa mampu:
 3. Masukan kode sesuai pada modul praktikum 4.
 4. Ubah kode `App.js`, sesuaikan dengan modul praktikum.
 5. Konfirmasi bukti:
-<img src="iPhone-14-PRO-localhost-t4k_ms4rmarkbe.gif" width="250">
+![alt text](iPhone-14-PRO-localhost-t4k_ms4rmarkbe.gif)
 
 
 ### Langkah 4: Membuat Drawer Navigation
